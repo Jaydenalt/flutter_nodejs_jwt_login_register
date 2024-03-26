@@ -1,0 +1,6 @@
+Assuming that the host machine has a version of node js > 7.0
+
+run "npm install" in the root directory
+
+start the server by running "node index"
+
